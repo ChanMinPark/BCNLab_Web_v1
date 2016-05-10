@@ -8,15 +8,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class ProfessorIntroController {
-private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-	
+	private static final Logger logger = LoggerFactory.getLogger(ProfessorIntroController.class);
+
 	@RequestMapping(value = "/professor")
-	public String home(Model model) {
+	public String professor(Model model) {
 		logger.info("Professor Introduction Page.");
-		
-		
+
+
 		//model.addAttribute("serverTime", formattedDate );
-		
+
 		return "professorIntro";
 	}
 }
