@@ -7,5 +7,5 @@
 - Tomcat 8
 
 ###Next Step  
-- Tomcat 서버 연동
+- Page 설계(어떤 페이지들을 추가할 것인지)
 - DB 선택 및 설치/연동
