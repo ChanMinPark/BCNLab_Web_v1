@@ -7,16 +7,16 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class PublicationsController {
-	private static final Logger logger = LoggerFactory.getLogger(PublicationsController.class);
+public class ProjectsController {
+	private static final Logger logger = LoggerFactory.getLogger(ProjectsController.class);
 
-	@RequestMapping(value = "/publications")
-	public String publications(Model model) {
-		logger.info("Publications Introduction Page.");
+	@RequestMapping(value = "/projects")
+	public String projects(Model model) {
+		logger.info("Projects Page.");
 
 
 		//model.addAttribute("serverTime", formattedDate );
 
-		return "publications";
+		return "projects";
 	}
 }
