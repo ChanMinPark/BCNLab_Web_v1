@@ -9,4 +9,4 @@
 
 ###Next Step  
 - Page 설계(어떤 페이지들을 추가할 것인지)
-- Maria DB 연동
+- Maria DB (db 설계 / 연동)
