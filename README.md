@@ -17,5 +17,5 @@
 
 ###Next Step  
 #### 박찬민
-- Page 설계(어떤 페이지들을 추가할 것인지)
+- Page 수정
 - Maria DB (db 설계 / 연동)
