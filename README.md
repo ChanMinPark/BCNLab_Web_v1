@@ -6,6 +6,7 @@
 - JDK 1.8
 - Tomcat 8
 - Maria DB 10.1.14 (HeidiSQL로 관리)
+- MyBatis
 
 ####Designer  
 - ?
@@ -17,5 +18,6 @@
 
 ###Next Step  
 #### 박찬민
-- Page 설계(어떤 페이지들을 추가할 것인지)
+- Page 수정
 - Maria DB (db 설계 / 연동)
+- 게시판 에이터 연동 조사
