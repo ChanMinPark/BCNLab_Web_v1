@@ -9,6 +9,6 @@
 </head>
 <body>
 	<%@include file="mainmenu.jsp"%>
-	Publications Intro Page.
+	Publications - Conference Page.
 </body>
 </html>

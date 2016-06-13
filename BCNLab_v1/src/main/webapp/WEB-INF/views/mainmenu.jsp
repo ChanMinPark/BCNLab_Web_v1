@@ -4,7 +4,8 @@
 <!DOCTYPE html>
 <header>
 	<ul>
-		<li><a href=”<c:url value=’/web/’/>”>Home</a></li>
+		
+		<li>Home</li>
 		<li>Member</li>
 		<li>Projects</li>
 		<li>Publications</li>
