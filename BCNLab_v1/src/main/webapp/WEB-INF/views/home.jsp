@@ -5,7 +5,7 @@
 <title>Home</title>
 </head>
 <body>
-	<%@include file="mainmenu.jsp"%>
+	<%@include file="mainmenu.jsp" %>
 
 	<h1>Hello world!</h1>
 

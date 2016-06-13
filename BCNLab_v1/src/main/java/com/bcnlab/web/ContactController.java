@@ -7,8 +7,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class ContactUsController {
-	private static final Logger logger = LoggerFactory.getLogger(ContactUsController.class);
+public class ContactController {
+	private static final Logger logger = LoggerFactory.getLogger(ContactController.class);
 
 	@RequestMapping(value = "/contactus")
 	public String contactus(Model model) {

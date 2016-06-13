@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Student Intro Page.
+Member - Professor Page.
 </body>
 </html>
