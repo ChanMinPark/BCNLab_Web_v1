@@ -1,4 +1,4 @@
-package com.bcnlab.web;
+package com.bcnlab.web.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
