@@ -18,5 +18,6 @@
 
 ###Next Step  
 #### 박찬민
+- Raspberry Pi Jessie Setting
 - Maria DB (db 설계 / 연동)
 - 게시판 에이터 연동 조사
