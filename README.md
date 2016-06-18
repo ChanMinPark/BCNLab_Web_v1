@@ -6,7 +6,7 @@
 - JDK 1.8
 - Tomcat 8
 - Maria DB 10.1.14 (HeidiSQL로 관리)
-- MyBatis
+- MyBatis(보류)
 
 ####Designer  
 - ?
