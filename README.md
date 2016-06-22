@@ -29,3 +29,11 @@
   - course varchar(30)
   - email varchar(50)
   - interest varchar(30)
+- Projects
+  - id int primary key auto_increment
+  - title varchar(200)
+  - institude varchar(100)
+  - begin_year int
+  - begin_month int
+  - end_year int
+  - end_month int
