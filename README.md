@@ -21,3 +21,11 @@
 - Raspberry Pi Jessie Setting
 - Maria DB (db 설계 / 연동)
 - 게시판 에이터 연동 조사
+
+###Database Table
+- Member
+  - id int primary key auto_increment
+  - name varchar(20)
+  - course varchar(30)
+  - email varchar(50)
+  - interest varchar(30)
