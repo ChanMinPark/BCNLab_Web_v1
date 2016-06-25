@@ -25,11 +25,11 @@
 ###Database Table
 - Member
   - id int primary key auto_increment
-  - name     varchar(20)
-  - course   varchar(30)
-  - email    varchar(50)
-  - interest varchar(30)
-  - status   varchar(10)
+  - name      varchar(20)
+  - course    varchar(30)
+  - email     varchar(50)
+  - interest  varchar(30)
+  - status    varchar(10)
 - Projects
   - id int primary key auto_increment
   - title       varchar(200)
