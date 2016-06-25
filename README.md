@@ -25,23 +25,25 @@
 ###Database Table
 - Member
   - id int primary key auto_increment
-  - name varchar(20)
-  - course varchar(30)
-  - email varchar(50)
+  - name     varchar(20)
+  - course   varchar(30)
+  - email    varchar(50)
   - interest varchar(30)
-  - status varchar(10)
+  - status   varchar(10)
 - Projects
   - id int primary key auto_increment
-  - title varchar(200)
-  - institude varchar(100)
-  - begin_year int
+  - title       varchar(200)
+  - institude   varchar(100)
+  - begin_year  int
   - begin_month int
-  - end_year int
-  - end_month int
+  - end_year    int
+  - end_month   int
+  - begin_ym, end_ym 으로 변경을 제안함 (2016.06.25 - 이종휘)
 - Publications
   - id int primary key auto_increment
-  - category varchar(2) : JS(Journal-SCI/SCIE), JN(Journal-Non SCI/SCIE), JD(Journal-Domestic), CI(Conference-International), CD(Conference-Domestic), Patent
-  - reference : 전체 인용 문장 삽입. 조금씩 형식이 달라서 그냥 통째로 입력
-  - autors : 향후 저자 검색을 추가할 경우 용이하게 검색하기 위해 필드를 따로 생성해 둠.
+  - category  varchar(2)
+    - JS(Journal-SCI/SCIE), JN(Journal-Non SCI/SCIE), JD(Journal-Domestic), CI(Conference-International), CD(Conference-Domestic), Patent
+  - reference varchar(200) : 전체 인용 문장 삽입. 조금씩 형식이 달라서 그냥 통째로 입력
+  - autors    varchar(100) : 향후 저자 검색을 추가할 경우 용이하게 검색하기 위해 필드를 따로 생성해 둠.
 - Board
   - (보류. 에디터 먼저 개발 후 에디터에서 도출되는 컨텐츠로 작성)
