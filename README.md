@@ -34,11 +34,8 @@
   - id int primary key auto_increment
   - title       varchar(200)
   - institude   varchar(100)
-  - begin_year  int
-  - begin_month int
-  - end_year    int
-  - end_month   int
-  - begin_ym, end_ym 으로 변경을 제안함 (2016.06.25 - 이종휘)
+  - begin_ym    varchar(10)
+  - end_ym      varchar(10)
 - Publications
   - id int primary key auto_increment
   - category  varchar(2)
