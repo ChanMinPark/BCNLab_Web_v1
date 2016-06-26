@@ -25,6 +25,8 @@
 ###Release Environment
 - AWS EC2
   - AMI(Amazon Machine Image) t2.micro
+- AWS S3 (고려)
+- AWS RDS (고려)
 
 ###Database Table
 - Member
