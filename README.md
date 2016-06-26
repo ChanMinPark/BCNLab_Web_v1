@@ -22,6 +22,10 @@
 - Maria DB (db 설계 / 연동)
 - 게시판 에이터 연동 조사
 
+###Release Environment
+- AWS EC2
+  - AMI(Amazon Machine Image) t2.micro
+
 ###Database Table
 - Member
   - id int primary key auto_increment
