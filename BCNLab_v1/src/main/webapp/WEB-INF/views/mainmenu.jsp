@@ -5,11 +5,11 @@
 <header>
 	<ul>
 		
-		<li>Home</li>
-		<li>Member</li>
-		<li>Projects</li>
-		<li>Publications</li>
-		<li>Board</li>
-		<li>Contact</li>
+		<li><a href="<c:url value='/'/>">Home</a></li>
+		<li><a href="<c:url value='/member/professor'/>">Member</a></li>
+		<li><a href="<c:url value='/projects'/>">Projects</a></li>
+		<li><a href="<c:url value='/publication/journal'/>">Publications</a></li>
+		<li><a href="<c:url value='/board/news'/>">Board</a></li>
+		<li><a href="<c:url value='/contactus'/>">Contact</a></li>
 	</ul>
 </header>
