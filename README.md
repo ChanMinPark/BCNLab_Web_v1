@@ -4,7 +4,7 @@
 ####Developer
 - STS(Spring Tool Suite) 3.7.3.RELEASE
 - JDK 1.8
-- Tomcat 8
+- Tomcat 7
 - Maria DB 10.1.14 (HeidiSQL로 관리)
 - MyBatis(보류)
 
@@ -18,7 +18,7 @@
 
 ###Next Step  
 #### 박찬민
-- Raspberry Pi Jessie Setting
+- Maria DB(on EC2) 외부 접속 허용
 - Maria DB (db 설계 / 연동)
 - 게시판 에이터 연동 조사
 
