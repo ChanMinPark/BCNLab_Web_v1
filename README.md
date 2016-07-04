@@ -5,7 +5,7 @@
 - STS(Spring Tool Suite) 3.7.3.RELEASE
 - JDK 1.8
 - Tomcat 7
-- Maria DB 10.1.14 (HeidiSQL로 관리)
+- Maria DB 10.1.14(버전 확인 필요) (HeidiSQL로 관리)
 - MyBatis(보류)
 
 ####Designer  
